@@ -61,7 +61,7 @@ def print_banner():
      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⡜⢛⣿⡇⡏⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⡄⠀⠀⠀⠀⠀⠀⠀
      ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠈⠉⠉⠁⠉⠛⠛⠉⠉⠉⠉⠁⠉⠁⠁⠁⠉⠉⠉⠒⠉⠁⠉⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-》 Dasbor Cuaca • Gempa • Udara • Peringatan by S͢i͟g͜it A̷̢̢͕͜m̸̴ru 《
+》 Dasbor Cuaca • Gempa • Udara • Peringatan by Rex 《
     """
     rich_typewriter(
         banner.strip(),
